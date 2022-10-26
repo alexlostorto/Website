@@ -25,7 +25,7 @@ Downloads
 
 More fun things are coming soon!!!
 
-Hope you have fun!
+
 
 ### Credits ###
 
