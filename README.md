@@ -11,15 +11,17 @@ At the moment, my website does have quite a bit of functionality! YAYYYYY!!!! As
 Here are the current features:
 
 * Cool Homepage
-* Downloads
+* Circle Game
 
-** Sparx Extension
+Downloads
 
-* Quizlet Revision
+* Sparx Extension
 
-* Quadratic Solver
 
-* Prime Number Checker
+
+
+
+
 
 More fun things are coming soon!!!
 
